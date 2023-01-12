@@ -1,10 +1,14 @@
 # This is my semester blog
 
-this is some text
+This is my blog for the semester of Interactive Art:Electronics.
 
-This is a list:
+Here, you will find:
 
-* this is the first thing
-* this is the second thing
+* weekly notes
+* important images
+* project sketches
+* and any other items needed for this class
 
-[Jan 11](1-11_class.md)
+## Week Notes
+
+* [Week 1](week1.md)
