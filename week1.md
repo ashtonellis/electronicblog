@@ -94,9 +94,7 @@ Participation Criteria:
 
 ## January 11th Class Notes
 
-Here are the notes for what we went over in class.
-
-Git Commands:
+### Git Commands:
 
 * commit
 * add (stage)
@@ -105,7 +103,7 @@ Git Commands:
 * fetch
 * push
 
-GitHub Commands:
+### GitHub Commands:
 
 * fork
 * pull request (pr)
