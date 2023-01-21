@@ -94,7 +94,7 @@ Participation Criteria:
 
 ## January 11th Class Notes
 
-### Git Commands:
+### Git Commands
 
 * commit
 * add (stage)
@@ -103,7 +103,7 @@ Participation Criteria:
 * fetch
 * push
 
-### GitHub Commands:
+### GitHub Commands
 
 * fork
 * pull request (pr)
