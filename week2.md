@@ -122,7 +122,7 @@ Vout = Vin x (R2 / R1 + R2)
 
 IDE = Intergrade Development Environment
 
-Platform.IO - includes a library for Arduino (requires "include arduino.h" command)
+Platform.IO - includes a library for Arduino (requires "#include <arduino.h>" command)
 
 Micro controller board - Arduino UNO
 
