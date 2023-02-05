@@ -22,6 +22,8 @@ Mainly thinking that I want to use some sort of puzzle box to create an onscreen
 * joystick - bring forground into frame
   * an led lights when correctly placed
 
+### Other details
+
 * must be done in order
 * maybe wrong order lights led a different color
   * green - success

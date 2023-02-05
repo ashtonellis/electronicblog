@@ -112,10 +112,13 @@ check to see if 1 second has passed since last blink
   * make note of new last blink
 
 unsinged long previousTimeStamp = 0;
+
 int ledState = LOW;
+
 long interval = 1000;
 
 void loop() {
+
     unsigned long currentTimeStamp = millis();
 
     if (currentTimeStamp - previousTimeStamp >= interval) {
