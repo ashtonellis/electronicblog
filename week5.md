@@ -67,3 +67,33 @@ Joystick - two potentiometers for x and y axis and a pushbutton switch
 VRx - variable resistor, x-axis
 VRy - variable resistory, y-axis
 input_pullup - prevents the pin from floating and giving inconsitent high/low readings
+
+## February 8th Class Notes
+
+On circut board -  Q = transistor
+stages- grouped components on a circut board that are related
+our resistors are 1/4 watt
+capacitors store charge
+ac syncronous motor - microwaves
+
+* uses ac power, can be plugged into wall
+* dc moters will move opposite direction of leads are switched
+
+continuity multi meter function - finds ground
+input_pullup - adds resistor to prevent short in flating switch
+debounce button - use software
+
+surpluscenter.com - where we can buy larger components
+VIN and GND pin on arduino do not go throught the voltage regulator
+
+### Power Supply Notations
+
+On wall Plugs:
+
+* *DC* out - how many volts? (#V) and what current can it supply (#A or #mA)
+  * ![dc/ac symbols](images/dcacsymbol.png)
+* type of plug charge
+  * ![center negative](images/centernegative.png)
+  * ![center positive](images/centerpositive.png)
+* **switching power supply** - turning on and off very quickly, regulated, has electronics, is also called a chopper
+* Linear power supply - non-regulated, puts our more voltage than labeled, assmuming that the voltage will change depending on what is plugged in, only has transformer (no other electronics)
