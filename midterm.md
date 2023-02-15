@@ -28,3 +28,19 @@ Mainly thinking that I want to use some sort of puzzle box to create an onscreen
 * maybe wrong order lights led a different color
   * green - success
   * red - wrong
+
+## February 15th Update
+
+Working with Grace on the rocking horse affecting on screen projection
+Using phone accelerometer to register changes of horse position
+
+Rocking triggers the fire animation to play
+The amount of rocking triggers various overlays
+
+* adding chaos on screen of video clips, images, news stills, warnings
+  * speeding up causes more overlays
+  * slowing down causes less overlays
+* after a period of stillness, the projection resets
+  * allows for individual interactions
+
+![projection sketch](images/midtermsketch4.png)
