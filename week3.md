@@ -32,9 +32,9 @@ Short Circut - when comething is connecting the positive and negative battery te
 
 delay in programming prevents other inputs from being read
 
-pin 13 - onboard LED
-pin 1 - tx
-pin 0 - rx
+pin 13 - onboard LED  
+pin 1 - tx  
+pin 0 - rx  
 pins with ~ - PWM
 
 ### Coding
@@ -87,7 +87,7 @@ void - function that does not return anything
 
 #### **Variable Scope**
 
-global scope - variable outside of a function, can be used in any function
+global scope - variable outside of a function, can be used in any function  
 local scope - variable within a function, can only be used within the function it is defined in
 
 boolean expression:
@@ -100,8 +100,8 @@ boolean expression:
 
 conditional statement - if statement, uses boolean expressions
 
-variables must be defined before they are used
-functions must be defined before they are used
+variables must be defined before they are used  
+functions must be defined before they are used  
 add const in front of variable, makes variable never changing
 
 #### **Blink without Delay**
@@ -143,11 +143,9 @@ serial monitor - shows data coming from micro controller
 
 ReacTable
 
-sparkfun/adafruit - sensors
-pololu/hobby town usa - motors/robotics
-
-FFT - Fast Fourier Transform, filters out certain frequencies
-
+sparkfun/adafruit - sensors  
+pololu/hobby town usa - motors/robotics  
+FFT - Fast Fourier Transform, filters out certain frequencies  
 Load Cell - determines weight, needs an amplifier
 
 ### Soldering
@@ -177,8 +175,7 @@ pot - potentiometer
 
 #### **Soldering process**
 
-each solder has a specific heating curve
-
+each solder has a specific heating curve  
 thickness of wires are measured in guage
 
 * the smaller the number, the thinner the wire
@@ -197,8 +194,8 @@ Temps:
 * 325c for soldering smaller components
 * 350c for soldering wires and larger components
 
-we use leaded solder, make sure to be careful of fumes
-put a blob of solder on the tip of the wand to help transfer heat
+we use leaded solder, make sure to be careful of fumes  
+put a blob of solder on the tip of the wand to help transfer heat  
 put heat shrink tubing on wire before soldering wires together
 
 * make sure it is far enough away that the heat of the wand does not shrink the tubing

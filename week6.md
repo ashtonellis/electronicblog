@@ -24,7 +24,7 @@ Flipper Zero - multitool for hackers
 * serial.begin(bod rate) - sets up serial communication
 * pinmode(pin#,mode) - sets input or output mode of a pin
 * while - keep doing code until criteria is not met
-  * while (|) or while(TRUE) - loop forever
+  * while ( | ) or while(TRUE) - loop forever
 * serial.available - something was sent to arduino
 * serial.print(" ") - print value
 * serial.println(" ") -print value with the return after
@@ -40,9 +40,9 @@ IncomingSerialData[#] - reads data after it has been converted to a list, # is t
 
 ### Adding other Languages to Markdown
 
-use
-    ''' language
-        code
+use  
+    ''' language  
+        code  
         '''
 
 mermaid language allows creation of diagrams and charts
@@ -71,7 +71,7 @@ inductive load - electromagnet, motor, speaker
 
 * dont want direct communication to arduino, draws too much power
 
-LM386 - low voltage audio power amplifier
+LM386 - low voltage audio power amplifier  
 HiLetGo - amazon components
 
 ## February 15th Class Notes
@@ -83,7 +83,7 @@ for electronic parts:
 * [allelectronics](https://www.allelectronics.com/)
 * [American Science and Surplus](https://www.sciplus.com/)
 
-DIP - dual inline pin
+DIP - dual inline pin  
 the chips on our boards are in a socket, not soldered directly to the board
 
 Soldering Tips:
@@ -96,10 +96,10 @@ Soldering Tips:
   * throughhole components should be soldered from the back of the board
   * reflow - reheating solder on the board to get it to flow again to clean up and stabilize connections
 
-Tin Whiskers
+Tin Whiskers  
 Rory Sparks
 
 ### Midterm Notes
 
-particle systems - maybe smoke or sparks ?
+particle systems - maybe smoke or sparks ?  
 api - application programming interface, systems talking to eachother

@@ -31,10 +31,10 @@ Mainly thinking that I want to use some sort of puzzle box to create an onscreen
 
 ## February 15th Update
 
-Working with Grace on the rocking horse affecting on screen projection
+Working with Grace on the rocking horse affecting on screen projection  
 Using phone accelerometer to register changes of horse position
 
-Rocking triggers the fire animation to play
+Rocking triggers the fire animation to play  
 The amount of rocking triggers various overlays
 
 * adding chaos on screen of video clips, images, news stills, warnings

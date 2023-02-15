@@ -2,7 +2,7 @@
 
 ## February 6th Class Notes
 
-Markdown Table Pretifier - VSC Extension, auto formats tables to make easier to read
+Markdown Table Pretifier - VSC Extension, auto formats tables to make easier to read  
 Putting a Video in Markdown -
 
 * link to video site
@@ -64,26 +64,26 @@ Joystick - two potentiometers for x and y axis and a pushbutton switch
 | VRy on joystick | anaolog input A1 on arduino |
 | SW on joystick  | digital input 3 on arduino  |
 
-VRx - variable resistor, x-axis
-VRy - variable resistory, y-axis
+VRx - variable resistor, x-axis  
+VRy - variable resistory, y-axis  
 input_pullup - prevents the pin from floating and giving inconsitent high/low readings
 
 ## February 8th Class Notes
 
-On circut board -  Q = transistor
-stages- grouped components on a circut board that are related
-our resistors are 1/4 watt
-capacitors store charge
+On circut board -  Q = transistor  
+stages- grouped components on a circut board that are related  
+our resistors are 1/4 watt  
+capacitors store charge  
 ac syncronous motor - microwaves
 
 * uses ac power, can be plugged into wall
 * dc moters will move opposite direction of leads are switched
 
-continuity multi meter function - finds ground
-input_pullup - adds resistor to prevent short in flating switch
+continuity multi meter function - finds ground  
+input_pullup - adds resistor to prevent short in flating switch  
 debounce button - use software
 
-surpluscenter.com - where we can buy larger components
+surpluscenter.com - where we can buy larger components  
 VIN and GND pin on arduino do not go throught the voltage regulator
 
 ### Power Supply Notations

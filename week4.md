@@ -7,7 +7,7 @@ How to get what you want
 * website to create DIY components
 * [kobakant.at/diy/](https://www.kobakant.at/DIY/)
 
-UUID - long enough number that it won't be reproduced
+UUID - long enough number that it won't be reproduced  
 NFC - near field communication, stores data
 
 ### In Visual Studio Code
@@ -19,8 +19,7 @@ NFC - near field communication, stores data
   * properties are attributes
   * methods are what it can do
 
-OOP/OOM - object oriented programming/method
-
+OOP/OOM - object oriented programming/method  
 dht11 - our humidity/temperature sensor
 
 * has power, group and signal pins
@@ -65,5 +64,5 @@ i2c
 * need gerber files to create board
 * our machines need g-code files to mill boards (CnC machines)
 
-a joystick is essentially 2 potentiameters and a button
+a joystick is essentially 2 potentiameters and a button  
 limit switch indicated location 0 on both ends of a moving track
