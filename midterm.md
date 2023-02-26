@@ -44,3 +44,12 @@ The amount of rocking triggers various overlays
   * allows for individual interactions
 
 ![projection sketch](images/midtermsketch4.png)
+
+## February 20th update
+
+getting random image from a selection
+
+* create 2 arrays
+  * one contains images
+  * other is boolean t/f, shown/not shown
+  * read from boolean to see if image has been shown.
