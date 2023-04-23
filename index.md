@@ -24,6 +24,8 @@ Here, you will find:
 * [Week 11](week11.md)
 * [Week 12](week12.md)
 * [Week 13](week13.md)
+* [Week 14](week14.md)
+* [Week 15](week15.md)
 
 ## Project Sketches
 
