@@ -77,3 +77,19 @@ Information on shield:
   * for DC and stepper - shield uses pins D3-D8, D11-D12
   * for servo - shield uses pins D9-D10
   * shield does not use pins D2 or D13
+
+## Apriil 22nd Update
+
+Finally got motors in. Soldered wires to the motors, as well as soldered wires to the analog pinouts on the shield board to connect buttons to.  
+LOTS and LOTS of trial and error and testing for code, but finally have buttons working (mostly) to turn on/off each motor.  
+[Link to Motor Code](https://github.com/ashtonellis/newMotorTest)  
+Photos of wiring (for reference, hopefully will be cleaned up for final presentation):
+
+* ![Full Wiring](images/fullwiring.jpg)
+* ![Breadboard Wiring](images/breadboardwiring.jpg)
+* ![Shield Wiring](images/shieldwiring.jpg)
+
+Photos of Physical Component (still prototyped, needs cleanup and some more parts for finishing):
+
+* ![Outside of Mechanism](images/mechanismoutside.jpg)
+* ![Inside of Mechanism](images/insidebox.jpg)
